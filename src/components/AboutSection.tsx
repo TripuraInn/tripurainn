@@ -9,7 +9,7 @@ const AboutSection = () => {
             About Our Hotel
           </h2>
           <p className="text-lg text-gray-600 mb-12">
-            Nestled in an idyllic location, our hotel combines timeless luxury
+            Nestled in an nalgonda, our hotel combines timeless luxury
             with modern comfort. Every detail has been carefully curated to ensure
             an unforgettable stay.
           </p>
