@@ -15,7 +15,7 @@ const RoomSection = () => {
       description: "Modern comfort with city skyline views",
     },
     {
-      title: "Dekuxe +",
+      title: "Deluxe +",
       image:
         "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
       description: "Ultimate luxury with personalized service",
@@ -46,7 +46,7 @@ const RoomSection = () => {
                   <h3 className="text-xl font-semibold text-navy">
                     {room.title}
                   </h3>
-                  <span className="text-gold font-bold">{room.price}/night</span>
+                  {/* <span className="text-gold font-bold">{room.price}/night</span> */}
                 </div>
                 <p className="text-gray-600 mb-4">{room.description}</p>
                 <button className="w-full bg-navy text-white py-2 rounded-md hover:bg-navy/90 transition-colors">
