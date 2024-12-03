@@ -24,7 +24,7 @@ const ContactSection = () => {
                 <p>
                   <span className="text-gold">Phone:</span>
                   <br />
-                  +1 (555) 123-4567
+                  +91 9177818191
                 </p>
                 <p>
                   <span className="text-gold">Email:</span>
