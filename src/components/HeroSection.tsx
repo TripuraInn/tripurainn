@@ -15,7 +15,7 @@ const HeroSection = () => {
       <div className="relative h-full flex items-center justify-center text-center">
         <div className="max-w-4xl px-4">
           <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">
-            Welcome to Luxury Haven
+            Welcome to Tripura Inn A/C Rooms
           </h1>
           <p className="text-xl md:text-2xl text-white/90 mb-8">
             Experience unparalleled luxury in the heart of paradise

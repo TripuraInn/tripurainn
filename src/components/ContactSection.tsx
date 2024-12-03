@@ -27,7 +27,7 @@ const ContactSection = () => {
                 <p>
                   <span className="text-gold">Email:</span>
                   <br />
-                  info@luxuryhaven.com
+                  info@tripurainn.com
                 </p>
               </div>
             </div>
