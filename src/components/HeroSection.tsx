@@ -20,9 +20,9 @@ const HeroSection = () => {
           <p className="text-xl md:text-2xl text-white/90 mb-8">
             Experience unparalleled luxury in the heart of paradise
           </p>
-          <button className="bg-gold text-navy px-8 py-3 rounded-md text-lg font-semibold hover:bg-gold/90 transition-colors">
+          {/* <button className="bg-gold text-navy px-8 py-3 rounded-md text-lg font-semibold hover:bg-gold/90 transition-colors">
             Book Now
-          </button>
+          </button> */}
         </div>
       </div>
     </div>

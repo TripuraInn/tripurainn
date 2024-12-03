@@ -3,24 +3,21 @@ import React from "react";
 const RoomSection = () => {
   const rooms = [
     {
-      title: "Deluxe Suite",
+      title: "Executive",
       image:
         "https://images.unsplash.com/photo-1590490360182-c33d57733427?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      price: "$299",
       description: "Spacious suite with ocean view and private balcony",
     },
     {
-      title: "Executive Room",
+      title: "Deluxe",
       image:
         "https://images.unsplash.com/photo-1591088398332-8a7791972843?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      price: "$199",
       description: "Modern comfort with city skyline views",
     },
     {
-      title: "Presidential Suite",
+      title: "Dekuxe +",
       image:
         "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      price: "$499",
       description: "Ultimate luxury with personalized service",
     },
   ];
