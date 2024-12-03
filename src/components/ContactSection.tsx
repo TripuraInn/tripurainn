@@ -29,7 +29,7 @@ const ContactSection = () => {
                 <p>
                   <span className="text-gold">Email:</span>
                   <br />
-                  info@tripurainn.com
+                  tripurainn@gmail.com
                 </p>
               </div>
             </div>
