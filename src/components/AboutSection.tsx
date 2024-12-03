@@ -9,11 +9,10 @@ const AboutSection = () => {
             About Our Hotel
           </h2>
           <p className="text-lg text-gray-600 mb-12">
-            Nestled in an nalgonda, our hotel combines timeless luxury
-            with modern comfort. Every detail has been carefully curated to ensure
-            an unforgettable stay.
+          Located on Hyderabad Road for easy access, Tripura Inn combines timeless luxury with modern comfort. 
+          Every detail is thoughtfully curated to ensure an unforgettable stay, where elegance meets contemporary convenience.
           </p>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+          {/* <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
               {
                 title: "Luxury Rooms",
@@ -38,7 +37,7 @@ const AboutSection = () => {
                 <p className="text-gray-600">{feature.description}</p>
               </div>
             ))}
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
