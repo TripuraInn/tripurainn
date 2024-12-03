@@ -15,9 +15,11 @@ const ContactSection = () => {
                 <p>
                   <span className="text-gold">Address:</span>
                   <br />
-                  123 Luxury Avenue
+                  Hyderabad Rd, Sri Ram Nagar Colony,
                   <br />
-                  Paradise City, PC 12345
+                  Balaji Colony, Nalgonda,
+                  <br />
+                  Telangana 508001, India
                 </p>
                 <p>
                   <span className="text-gold">Phone:</span>
@@ -35,12 +37,12 @@ const ContactSection = () => {
               <h3 className="text-xl font-semibold mb-4">Location</h3>
               <div className="bg-white/10 p-6 rounded-lg">
                 <p className="text-white/80">
-                  Located in the heart of Paradise City, our hotel is just:
+                  Located in the heart of Nalgonda, our hotel is just:
                 </p>
                 <ul className="list-disc list-inside mt-4 space-y-2 text-white/80">
-                  <li>15 minutes from Paradise International Airport</li>
-                  <li>5 minutes walk to Paradise Beach</li>
-                  <li>10 minutes to Downtown Shopping District</li>
+                  <li>15 minutes from Nalgonda Bus Station</li>
+                  <li>5 minutes walk to local markets</li>
+                  <li>10 minutes to City Center</li>
                   <li>Walking distance to major attractions</li>
                 </ul>
               </div>
