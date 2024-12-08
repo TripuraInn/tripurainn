@@ -15,11 +15,18 @@ const ContactSection = () => {
                 <p>
                   <span className="text-gold">Address:</span>
                   <br />
-                  Hyderabad Rd, Sri Ram Nagar Colony,
-                  <br />
-                  Balaji Colony, Nalgonda,
-                  <br />
-                  Telangana 508001, India
+                  <a 
+                    href="https://www.google.com/maps/place/Tripura+Inn+A%2FC+rooms/@17.0757616,79.2608185,21z/data=!4m6!3m5!1s0x3bcb29000e604863:0x825e92904dd3d987!8m2!3d17.0757606!4d79.2609414!16s%2Fg%2F11w3n38grb?entry=ttu&g_ep=EgoyMDI0MTIwNC4wIKXMDSoASAFQAw%3D%3D"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="hover:text-gold transition-colors"
+                  >
+                    Hyderabad Rd, Sri Ram Nagar Colony,
+                    <br />
+                    Balaji Colony, Nalgonda,
+                    <br />
+                    Telangana 508001, India
+                  </a>
                 </p>
                 <p>
                   <span className="text-gold">Phone:</span>
